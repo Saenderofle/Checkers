@@ -1,0 +1,2 @@
+# Checkers
+Project for uni/
